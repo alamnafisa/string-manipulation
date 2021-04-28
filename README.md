@@ -1,0 +1,2 @@
+# string-manipulation
+Develop a program that will accept a main string and a sub string and 1) test if characters of substring are present in the main string 2) return the first possible substring traversing from the left with elements of substring 3) return the shortest substring containing all the elements of substring and 4)  return the shortest substring containing all the elements of substring in order.
